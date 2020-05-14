@@ -249,6 +249,17 @@ label + input[type=radio] + label {
     width: 50%;
     margin: 0;
   }
+  .radioButtons {
+    display: flex;
+    justify-content: center;
+    width: 30%;
+  }
+  li a {
+    display: flex;
+    justify-content: center;
+    padding-left: 35px;
+    max-width: 160px;
+  }
 }
     /* Mobile */
 
@@ -264,6 +275,17 @@ label + input[type=radio] + label {
   .icon-row {
     display: flex;
     flex-flow: column;
+  }
+  .radioButtons {
+    display: flex;
+    justify-content: center;
+    width: 30%;
+  }
+  li a {
+    display: flex;
+    justify-content: center;
+    padding-left: 35px;
+    max-width: 160px;
   }
 }
 

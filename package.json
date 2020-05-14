@@ -1,6 +1,7 @@
 {
   "name": "u09weatherapp",
   "version": "0.1.0",
+  "homepage": "https://patrik.axenstedt.chas.academy/weatherapp/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
