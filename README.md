@@ -1,3 +1,3 @@
 ## React weather app with geolocation 
-## To start 
+### To start 
 Clone > npm install > install react-router-dom > npm start
