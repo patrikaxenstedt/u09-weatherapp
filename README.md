@@ -1,4 +1,4 @@
- React.js - weather app with geolocation 
+ Built with React.js - weather app with geolocation 
 
 - Clone 
 - npm install 
